@@ -21,8 +21,8 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    cd yourproject
+    git clone https://github.com/snooow1029/Native-speaker-identification.git
+    cd Native-speaker-identification
     ```
 
 2. **Create a virtual environment** (optional but recommended):
