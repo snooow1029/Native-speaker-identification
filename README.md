@@ -9,7 +9,7 @@ We demonstrate our project using **Gradio** and integrate **Whisper** to enhance
 ## Workflow of our application:
 
 <p align="center">
-  <img src="./images_video/application_flow.png" alt="Workflow" />
+  <img src="./workflow.png" alt="Workflow" />
 </p>
 
 The link for our demo video:
